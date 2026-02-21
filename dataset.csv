@@ -1,0 +1,6 @@
+crop,season,temperature,humidity,wind_speed,yield
+paddy,Monsoon,30,78,4.5,3200
+paddy,Summer,34,60,3.8,2800
+wheat,Winter,18,75,2.1,2600
+maize,Monsoon,28,80,5.0,3000
+cotton,Summer,33,55,4.0,2200
