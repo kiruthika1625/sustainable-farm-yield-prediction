@@ -38,3 +38,4 @@ Risk Alert: Low soil moisture, irrigation recommended
 
 <img width="1920" height="1080" alt="Screenshot 2026-02-22 175243" src="https://github.com/user-attachments/assets/880887be-69b0-406a-9783-521027895ef5" />
 
+<img width="1920" height="1080" alt="Screenshot 2026-02-22 175704" src="https://github.com/user-attachments/assets/51227bb2-adfc-4c33-b438-6520c97f0d27" />
